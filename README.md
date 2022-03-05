@@ -10,7 +10,7 @@
 | Alaa Seif elnasr Ibrahim | 1       | 11   |
 | Habiba Mahmoud           | 1       | 25   |
 | Hasan Hosni              | 1       | 26   |
-| Mariam Glal Mohamad      | 2       | 24   |
+| Mariam Glal Mohamad      | 2       | 25   |
 
 
 
@@ -24,5 +24,5 @@ Note: The above "or" is for the user/customer, not the developer (i.e. YOU!). Fo
 5. Instead of hard-coding the wifi connection info in the ESP code, give the user the flexibility to choose which wireless network s/he wants to connect to. i.e. show the user the surrounding wireless network names and he can choose one of them to connect to. You can view the names on either a small LCD or even on the ESP serial port.
 
 
-![](Animation.gif)
+![](Animation.gif) 
 
